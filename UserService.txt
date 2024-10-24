@@ -1,1 +1,3 @@
-Hi This is user changed 3
+Hi This is user changed 
+
+changed avatar in UserService
